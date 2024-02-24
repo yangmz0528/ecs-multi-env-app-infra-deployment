@@ -13,5 +13,4 @@ terraform {
           name = "ecs-prod"
         }
     }
-
 }
